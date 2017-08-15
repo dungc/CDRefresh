@@ -5,12 +5,12 @@ A simple horizontal refresh control.
 
 ![](demo.gif)
 
-##How to use CDRefresh
+## How to use CDRefresh
 * Manual import：
 	* Drag All files in the `CDRefresh` folder to project
 	* Import the main file：`#import "CDRefreshControl.h"`
 
-##Usage
+## Usage
 ~~~objc
  _refreshControl = [[CDRefreshControl alloc] initWithScrollView:_scrollView];
     
